@@ -59,7 +59,7 @@ By default, scoped packages are published as private. You can read more about th
 Once it's published, you should see it on the website with a private flag.
 
 <p class="centered">
-  <img src="/images/private-modules/private-flag.png" class="bordered">
+  <img src="/public/images/private-modules/private-flag.png" class="bordered">
 </p>
 
 ## Giving access to others
